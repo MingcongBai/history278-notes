@@ -53,6 +53,8 @@ Significance of Queen Njinga:
 
 ### Santana Plantation
 
+Stuart B. Schwartz, "Slaves, Peasants, and Rebels".
+
 A group of slaves on Engenho Santana, a large plantation in Ilheus of Brazil (in the south, far away from political centrals), where slaves killed their overseer, seized some of the plantation's machinery and formed a settlement in the forest... Efforts were put in to capture the slaves, but none proven effective. The slaves were forced to negotiation by pressure. A treaty was formed for conditions to return to their plantation as slaves, while the principal of the uprising would be imprisoned.
 
 The uprising was significant mainly for its "peace treaty" formed by the negotiation. The central pieces of the treaty was in the regard of quotas required in the task system (significant drop in daily quota, and moreover, women should have lower quotas), and to the access of independent subsistence plots for the slaves (Saturday and Sunday allowance to work on their own plots). Their desire to "play, relax, and sing without needing permission" was also expressed in the treaties.
@@ -132,7 +134,7 @@ An African ritual performed in the Brazillian colonies. Which often times involv
 
 Due to frequent bodily penetration, this practice was often times confused with sodomy or homosexual relationships by the Europeans - a sin in Catholicism, many were imprisoned for practicing the Quimbanda ritual. Such understanding reflects on the removal of cultural context of these ritual practices.
 
-This ritual was more often found to be performed by male than actual female... Maybe, due to demographic changes in the male-centric Atlantic Slave Trade, or some believed that it is believed that male were more suitable as medium for possession.
+This ritual was more often found to be performed by male than actual female... Maybe, due to demographic changes in the male-centric Atlantic Slave Trade, or some believed that it is believed that male were more suitable as medium for possession. Or much rather, the duality of the possessed deemed powerful and divine.
 
 ### Harriet Jacobs
 
@@ -156,7 +158,7 @@ Sue E. Houchins and Baltasar Fra-Monlinero, "The Saint's Life of Sister Chicaba,
 
 One of the earliest African women to be recorded in modern European languages. It was a collaboration between Sister Chicaba and Father Juan Carlos Miguel de Paniagua, where she provided information for assembly of a biography.
 
-Chicaba stood out for her cause and method of escaping slvaery, "by exhibiting her extrodinary holiness" according to the author (healing and performance of rituals?).
+Chicaba stood out for her cause and method of escaping slavery, "by exhibiting her extrodinary holiness" according to the author (healing and performance of rituals?).
 
 Chicaba was born the youngest daughter of King of Lamina Baja del Oro, in contemporary Eastern Ghana, Togo, and Benin. She was quickly noticed to be of significant upbringing, for her wearing jewelry upon capture, and that her name "Chicaba", meaning "golden child", or "divine gift". She was given a name when baptised, as Teresa.
 
@@ -168,7 +170,19 @@ In all, Sister Chicaba's story expressed a view on monastic women's life in Euro
 
 ### Juan Roque
 
+Zape, referring to people of the Sierra Leone region. Zape brotherhood in Mexico.
+
 ### Slave Ship Emilia
+
+In 1821, 391 slaves from the Bight of Benin were brought onboard of Ship Emilia bound for the Americas - 250 of them were Nagoes (Yoruba for nowadays), 71 were Hausas, and others divided from different ethnic groups - 2/3 of them male.
+
+By this time, slave trades were outlawed in the Northern hemisphere by the British (with a deal with Spanish and Portuguese government). Caught by the British navy, the ship was captured and was meant to be brought to Sierra Leone - however (accordingly) for issues of currents - the navy let the ship sail to Rio de Janero, for further treatment... The British government did not know what to do, therefore put them in the warehouses - and declared 14-year term in apprenticeship - some of these slaves stayed in the warehouse for more than two months.
+
+Few knew what they did in the 14 years as apprentices... By record, some worked for social institutions, fixing street lights... But at the very least, they kept their connection with each other - and later petitioned to the Brazilian government to be freed early, but they spent their 14 years nonetheless - one apprentice were wealthy enough to get hold of a ship to sail back to Nigeria with those sailed to Rio together - the sail was successful for this group.
+
+Apprentices did not regard the "grant" of freedom highly, owners of apprentices would brought dead bodies of an African to declare the death of their apprentices - they were therefore allowed to keep the apprentices for over 14 years.
+
+These shipmate families resisted the "threat" of individualisation and social death, and created social bonds with their own creative ways... And there were more cases of returning slaves.
 
 General Concepts
 ----------------
@@ -184,5 +198,32 @@ Essay Prompts
 -------------
 
 - Did the Atlantic slave trade transform earlier forms of slavery in Africa (first reading)?
+  - Lisa A. Lyndsay.
+  - Slavery existed before European's arrival on trade routes.
+    - Wealth in people.
+    - Outsiders and kin, freedom by association.
+    - Captives used as domestic slaves, a social status but not as economical fact.
+    - Arabic, and Mediterranian trade routes.
+    - There was opportunity and possibility to re-integrate into families and society, and remove oneself from slavery.
+  - Introduction of Europeans to the slave market...
+    - Transformed domestic slaves to chattle slaves.
+    - Exploited both slave traders and slaves.
+    - Used weapon and goods import to infiltrate slave trades.
+      - Brought in increased warfare against each tribes.
+    - Slave traders and owners were unaware of the inhumane treatments.
+    - Significantly larger scale in slave capture, for profit, and stimulated with crime - slave raiders.
 - To what extent did slaves suffer a social death when they were enslaved and sent to the Americas (lecture notes, especially; Vincent Brown; Smallwood)?
+  - Orlando Patterson... "The permanent, violent domination of natally alienated and generally dishonoured persons".
+  - Smallwood, the difficulty in returning to the society as a full person.
+  - Vincent Brown, see below.
 - Did Africans accept their fates as "commodities"?
+  - Uprisings were found everywhere (including the Berbice Slave Uprising, with strong implications to this day, in contemporary Guyana, the rebellion was celebrated with the Republic Day).
+  - Mothers still gave birth, albeit the low survival rates.
+  - The question of slave identity also triggered many legal challenges throughout the 19th and 20th century in the United States (extra).
+  - However, many still lived their lives as slaves, and treated as commodities.
+
+### Vincent Brown
+
+A new community may be constructed from (social) death itself. For example, a woman died on a ship, when the shipmates intended to toss the body overboard, slaves onboard rallied to hold a proper funeral for this woman.
+
+Vincent Brown does not disagree that social death was a concept in existence, but he noted that social death may create motivation to recreate oneself via events or doings - see the Haiti Revolution. Social death may be a condition looming over a context, but slaves may strive to work against social death - in order to live.
